@@ -41,8 +41,8 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yatharth-1907&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/yatharth-1907?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" />
+<img src="https://komarev.com/ghpvc/?username=yatharth-1907&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" width='100' />
+<img src="https://img.shields.io/github/followers/yatharth-1907?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" width='100' />
 
 </div>
 
