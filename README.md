@@ -39,7 +39,7 @@
   <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png"width="150 />
 </a>
 
-<br><br>
+<br><br><br><br>
 
 <img src="https://komarev.com/ghpvc/?username=yatharth-1907&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" width='100' />
 <img src="https://img.shields.io/github/followers/yatharth-1907?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" width='100' />
@@ -213,7 +213,7 @@
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
+<img src="https://cdn-icons-gif.flaticon.com/9066/9066380.gif" width="100">
 
 </div>
 
