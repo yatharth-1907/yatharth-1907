@@ -38,9 +38,11 @@
 <a href="https://leetcode.com/u/Yatharth_007">
   <img src="https://w7.pngwing.com/pngs/640/947/png-transparent-leetcode-button-icon.png"width="150 />
 </a>
+</div>
 
-<br><br><br><br>
+---
 
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=yatharth-1907&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" width='100' />
 <img src="https://img.shields.io/github/followers/yatharth-1907?color=blue&style=for-the-badge&logo=github&label=FOLLOWERS" width='100' />
 
