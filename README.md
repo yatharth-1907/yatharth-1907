@@ -166,20 +166,20 @@
 
 ### 🥇 **LEGENDARY WINS**
 ```bash
-┌─ 2024 VICTORIES ─┐
-│                  │
-│ 🏆 Smart India  │
-│    Hackathon     │
-│    WINNER        │
-│    Problem 1716  │
-│                  │
-│ 🏆 HackWave      │
-│    Champion      │
-│    Chameli Devi  │
-│                  │
-│ 👑 IEEE Best SB │
-│    Award Leader  │
-└──────────────────┘
+┌─🏆2024 VICTORIES──┐
+│  ▪️               |
+│ 🏆 Smart India    |
+│  ▪️Hackathon      │
+│  ▪️WINNER         │
+│  ▪️Problem 1716   │
+│ ▪️                │
+│ 🏆  HackWave      │
+│  ▪️Champion       │
+│  ▪️Chameli Devi   │
+│     ▪️            │
+│ 👑 IEEE Best SB   │
+│  ▪️Award Leader   │
+└───────────────────┘
 ```
 
 </td>
@@ -189,16 +189,16 @@
 ```bash
 ┌─ COMMAND CENTER ─┐
 │                  │
-│ 👨‍💼 IEEE Chair    │
+│ * IEEE Chair     │
 │    2025-2026     │
 │                  │
-│ 🎯 Vice Chair    │
+│  * Vice Chair    │
 │    2024-2025     │
 │                  │
-│ 🎤 ARDOR Anchor  │
+│ * ARDOR Anchor   │
 │    2023-2024     │
 │                  │
-│ 🌟 IEEE HTB      │
+│ *  IEEE HTB      │
 │    Ambassador    │
 └──────────────────┘
 ```
